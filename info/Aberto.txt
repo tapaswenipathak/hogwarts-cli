@@ -1,0 +1,10 @@
+In Hogwarts
+Type: Charm
+Pronunciation: Uh-ber-toe
+Description: A spell presumably used to open objects such as doors or windows.
+
+*nix based system
+Type: command
+Pronounciation: O-pan
+Description: Open a file using a nix based utility.
+Usage: $Aberto file_name

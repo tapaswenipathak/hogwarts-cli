@@ -1,0 +1,31 @@
+{
+  "name": "hogwarts-cli",
+  "version": "1.0.0",
+  "description": "hp spells -> *nix based system",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tapaswenipathak/hogwarts-cli.git"
+  },
+  "keywords": [
+    "Magic",
+    "Hogwarts",
+    "Nix",
+    "Systems"
+  ],
+  "author": "tapaswenipathak",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tapaswenipathak/hogwarts-cli/issues"
+  },
+  "homepage": "https://github.com/tapaswenipathak/hogwarts-cli#readme",
+  "dependencies": {
+    "chalk": "^2.4.1",
+    "chalk-animation": "^1.6.0",
+    "fs-extra": "^7.0.0",
+    "inquirer": "^6.2.0"
+  }
+}
