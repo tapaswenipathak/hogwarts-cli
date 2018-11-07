@@ -1,0 +1,11 @@
+Hogwarts
+
+Type: Curse
+Pronunciation: ah-VAH-dah keh-DAV-rah
+Description: Causes instant death to the victim wherever it hits on the body, is accompanied by a flash of green light and a rushing noise; there is no known counter-curse, although there are a number of ways to prevent death by it, such as hitting it with another spell in mid-flight, dodging it, or interrupting the caster. 
+
+*Nix based system
+Type: Deleting file
+Pronounication: delete
+Description: Deletes a given file from system, big rm -rf all.
+Usage: $AvadaKedavra file_name

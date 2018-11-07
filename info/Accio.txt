@@ -1,0 +1,20 @@
+In Hogwarts
+Accio (Summoning Charm)
+Type: Charm
+Pronunciation: Various suggestions have been made, including: (AK-ee-oh) or (AK-see-oh)-film, (AK-see-oh)-UK audio book and video game, (AS-see-oh)-US audio book, and (AT-chee-oh)-Anglo-Catholic pronunciation
+Accio cup
+Description: This charm summons an object to the caster, potentially over a significant distance.
+
+Hogwarts-cli
+
+Wget
+Type: Web utility
+Pronounication: dablu-get
+Description: download a file from a URL
+Usage: $Accio url
+
+Grep
+Type: command line utility
+Pronounciation: grae-p
+Description: Search and get something in your system
+Usage: $Accio string

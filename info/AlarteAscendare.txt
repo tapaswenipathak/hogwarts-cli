@@ -1,0 +1,9 @@
+Hogwarts
+
+Type: Charm
+Pronunciation: A-LAR-tey ah-SEN-deh-rey
+Description: Shoots the object high into the air.
+
+*Nix based system
+Description: Deleted while greping
+Usage: $AlarteAscendare string

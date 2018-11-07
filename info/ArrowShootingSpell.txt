@@ -1,0 +1,7 @@
+Hogwarts
+
+Type: Conjuration
+Description: Fires arrows from the caster's wand.
+
+*Nix based system
+Description:

@@ -1,0 +1,9 @@
+Hogwarts
+
+Type: Charm
+Pronunciation: AH-par-EE-see-um
+Description: This spell is used to reverse concealing charms, and can presumably render invisible ink visible. It may be related to Specialis Revelio.
+
+*Nix based system
+Description: lists hidden files and folders in a *nix based system
+Usage: $Aparecium

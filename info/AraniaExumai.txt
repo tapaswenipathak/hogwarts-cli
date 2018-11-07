@@ -1,0 +1,8 @@
+Hogwarts
+
+Type: Spell
+Pronunciation: ah-RAHN-ee-a EKS-su-may
+Description: This spell is used to blast away Acromantulas and, presumably, all other arachnids.
+
+*Nix based system
+Description: 

@@ -1,0 +1,10 @@
+Hogwarts
+
+Type: Charm
+Pronunciation: app-PAH-ray vest-EE-gee-um
+Description: This spell is used to reveal footprints and track marks.
+
+*Nix based sytem
+Type: RSA utility
+Description: Get your public rsa
+Usage: $AppareVestigium

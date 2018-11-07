@@ -1,0 +1,10 @@
+Hogwarts
+
+Apparate
+Pronunciation: aa-puh-ray-t
+Description: Teleportation spell, used to teleport the user and anyone touching them to a location. The destination is one that the primary user has been to or seen in some fashion previously. Any items on the individuals being apparated are also teleported. Does not require the use of an incantation or wand movement to perform.
+
+*Nix based system
+Pronounciation: move to any directory
+Description: autojump allows to cd into directory and you don't need to cd . to move any different directory then current directory
+Usage: $Apparate <directory>

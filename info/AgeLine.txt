@@ -1,0 +1,10 @@
+In Hogwarts
+
+Age Line
+Type: Charm
+Description: Creates a thin, shimmering golden line around the target that is impassable by those below a set age.
+
+*nix based system
+Type: Find command
+Description: Gets all files of x age present in your system
+Usage: $AgeLine <number>

@@ -1,0 +1,8 @@
+Hogwarts
+
+Type: Charm, Conjuration
+Pronunciation:AH-gwah-MEN-tee
+Description: Produces a fountain or jet of water from the wand tip.
+
+*Nix based system
+Description: 

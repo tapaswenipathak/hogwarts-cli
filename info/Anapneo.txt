@@ -1,0 +1,10 @@
+Hogwarts
+
+Type: Healing Spell
+Pronunciation: ah-NAP-nee-oh
+Description: Clears the airway, should they find it blocked.
+
+*Nix based system
+Description: Provides space for system programs
+Usage: $Anapneo
+
